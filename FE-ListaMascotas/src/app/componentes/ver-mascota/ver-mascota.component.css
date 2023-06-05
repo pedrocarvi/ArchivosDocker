@@ -1,0 +1,22 @@
+.title {
+    background-color: #303030;
+    width: 100%;
+    max-width: 1920px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1 {
+    color: white;
+}
+
+.container {
+    margin: 70px 20%;
+}
+
+.card {
+    margin-top: 5px;
+    text-align: center;
+}
